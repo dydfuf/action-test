@@ -1,4 +1,4 @@
-from jinja2 import Template
+from jinja2 import Template,Path
 
 def get_latest_post(rss_feed):
     f = feedparser.parse(rss_feed)
