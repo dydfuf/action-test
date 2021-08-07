@@ -31,3 +31,9 @@ jobs:
 
       - name: Update Readme
         run: python ./.github/workflows/test.py
+
+      - name: commit readme
+        run: |
+        git add .
+        git commit -m "readme"
+        git push orign master
