@@ -27,7 +27,8 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Install Feedparser & Jinja2
-        run: pip install feedparser jinja2
+        run: |
+        pip install feedparser jinja2 pygithub
 
       - name: Update Readme
         run: python ./.github/workflows/test2.py
