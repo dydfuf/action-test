@@ -32,9 +32,7 @@ jobs:
       - name: Update Readme
         run: python ./.github/workflows/test.py
 
-      - name: commit readme
-        run: |
-          echo hello world!
-          git add .
-          git commit -m "readme"
-          git push orign master
+      - name: Commit & Push changes
+        uses: actions-js/push@master
+        with:
+          github_token: ${{ secrets.TOKEN }}
