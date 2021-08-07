@@ -34,7 +34,7 @@ jobs:
 
       - name: commit readme
         run: |
-        echo hello world!
-        git add .
-        git commit -m "readme"
-        git push orign master
+          echo hello world!
+          git add .
+          git commit -m "readme"
+          git push orign master
