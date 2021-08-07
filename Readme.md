@@ -1,7 +1,26 @@
-You can see what he's posting about at <https://kjaymiller.com>.
+<!--
+  Before submitting a Pull Request, please ensure you've done the following:
+  - 📖 Read the Open Sauced Contributing Guide: https://github.com/bdougie/awesome-black-developers/blob/main/CONTRIBUTING.md.
+  - 📖 Read the Open Sauced Code of Conduct: https://github.com/ddougie/awesome-black-developersd/blob/main/CODE_OF_CONDUCT.md.
+  - 💻 Included links to the developers work.
+  - ✅ Provide tests for your changes.
+  - 📝 Use descriptive commit messages.
+  - 📷 Add username to the action/update-photos.rb.
+-->
 
-**Latest Post - [{{latest_post}}]({{latest_post}})**
+## What type of PR is this? (check all applicable)
 
-**Latest Productivity in Tech Podcast Episode - [{{latest_podcast_post}}]({{latest_podcast_post}})**
+- [ ] ♻️ Refactor
+- [ ] ✨ Feature
+- [ ] 🐛 Bug Fix
+- [ ] 👩🏽‍🦱 Adding new developer
+- [ ] 📝 Documentation Update
+- [ ] 🚩 Other
 
-## Active Projects
+## Description
+
+<!--
+  Briefly share why this developer belongs on this list (Please be as uplifting and encouraging as possible).
+  
+  If this is code related to the GitHub Actions, please still consider being uplifting in your description 😀.
+-->
