@@ -9,7 +9,7 @@ def get_latest_post(rss_feed):
             'link': latest_post['link'],
             }
 
-template = Template(Path('./Readme_template.md').read_text())
+template = Template(Path('./README_TEMPLATE.md').read_text())
 Path('./Readme.md').write_text(
         template.render(
             latest_post=get_latest_post(rss_feed),
