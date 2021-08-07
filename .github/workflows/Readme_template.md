@@ -18,7 +18,7 @@
 - [ ] 🚩 Other
 
 ## Description
-
+{{latest_post}}
 <!--
   Briefly share why this developer belongs on this list (Please be as uplifting and encouraging as possible).
   

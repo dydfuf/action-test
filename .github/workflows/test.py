@@ -12,3 +12,8 @@ def get_latest_post(rss_feed):
 template = Template(Path('./README_TEMPLATE.md').read_text())
 
 Path('./Readme.md').write_text(template.render(latest_post="dddddd", latest_podcast_post="ddddfdlkjld"))
+a = Path('./Readme.md').read_text()
+print(a)
+Path('./Readme.md').write_text("dldifkd")
+a = Path('./Readme.md').read_text()
+print(template)
