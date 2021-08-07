@@ -40,3 +40,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           force: True
           message: "elkdjfidslfk"
+          branch: "master"
