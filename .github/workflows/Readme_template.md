@@ -18,8 +18,6 @@
 - [ ] 🚩 Other
 
 ## Description
-# {{latest_post}}kkkkkk
-# dldiekd
 <!--
   Briefly share why this developer belongs on this list (Please be as uplifting and encouraging as possible).
   
