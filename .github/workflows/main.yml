@@ -1,0 +1,5 @@
+- name: Install Feedparser & Jinja2
+  run: pip install feedparser jinja2
+
+- name: Update Readme
+  run: python ./.github/actions/test.py
