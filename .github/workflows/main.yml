@@ -32,7 +32,7 @@ jobs:
         run: pip install jinja2 pygithub
 
       - name: Update Readme
-        run: python ./.github/workflows/test2.py
+        run: python ./.github/workflows/test.py
 
       - name: Commit & Push changes
         uses: actions-js/push@v1.3
